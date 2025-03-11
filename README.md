@@ -24,12 +24,10 @@ Je suis un Data Analyst passionné, spécialisé dans l'exploration et l'analyse
 
 Voici les projets inclus dans ce portfolio :
 
-### 1. **Analyse des ventes d'un magasin (Sales Analysis)**
-   - **Description** : Analyse des données de vente pour un magasin fictif pour identifier des tendances, des produits performants et des zones d'amélioration.
-   - **Outils utilisés** : Python (pandas, matplotlib, seaborn), Power BI
-   - **Résultat** : Création de rapports et de visualisations interactives permettant de suivre la performance des produits et d'optimiser les stratégies de vente.
-
-
+### 1. **Rapport sur l'activité des retraites en 2015**
+ - Les effectifs sur les retraites
+ - Les dépenses de l'etat sur les retraites
+ - Les cotisations sur les retraites
 
 ## 🛠️ Technologies et outils
 
