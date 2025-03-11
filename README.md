@@ -24,7 +24,7 @@ Je suis un Data Analyst passionné, spécialisé dans l'exploration et l'analyse
 
 Voici les projets inclus dans ce portfolio :
 
-### 1. **Rapport sur l'activité des retraites en 2015**
+### 1. **Rapport sur l'activité des retraites en 2015 avec PowerBI**
  - Les effectifs sur les retraites
  - Les dépenses de l'etat sur les retraites
  - Les cotisations sur les retraites
@@ -33,11 +33,8 @@ Voici les projets inclus dans ce portfolio :
 
 Voici les principaux outils et technologies que j'ai utilisés dans mes projets :
 
-- **Python** : pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
-- **SQL** : MySQL, PostgreSQL
-- **Visualisation** : Power BI, Tableau, matplotlib
-- **Machine Learning** : scikit-learn
-- **Outils de collaboration** : GitHub, Git, Jupyter Notebooks
+- **Visualisation** : Power BI
+- **Outils de collaboration** : GitHub
 
 ---
 
