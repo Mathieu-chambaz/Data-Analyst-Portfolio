@@ -25,6 +25,7 @@ Je suis un Data Analyst passionné, spécialisé dans l'exploration et l'analyse
 Voici les projets inclus dans ce portfolio :
 
 ### 1. **Rapport sur l'activité des retraites en 2015 avec PowerBI**
+L'objectif de ce rapport est d'analyser l'activité des retraites en 2015 selon les 3 axes suivants
  - Les effectifs sur les retraites
  - Les dépenses de l'etat sur les retraites
  - Les cotisations sur les retraites
