@@ -24,17 +24,17 @@ Je suis un Data Analyst passionné, spécialisé dans l'exploration et l'analyse
 
 Voici les projets inclus dans ce portfolio :
 
-### 1. **Rapport sur l'activité des retraites en 2015 avec PowerBI**
-L'objectif de ce rapport est d'analyser l'activité des retraites en 2015 selon les 3 axes suivants
- - Les effectifs sur les retraites
- - Les dépenses de l'etat sur les retraites
- - Les cotisations sur les retraites
+### 1. **Rapport sur l'activité des retraites en 2015 avec Power BI**  
+L'objectif de ce rapport est d'analyser l'activité des retraites en 2015 selon trois axes :  
+- Les effectifs des retraités  
+- Les dépenses de l'État liées aux retraites  
+- Les cotisations retraite  
 
-### 2. **Rapport sur le secteur aérospatiale en 2020 avec PowerBI**
-L'objectif de ce rapport est d'analyser le secteur aérospatiale en 2020
-    - Les effectifs
-    - Le chiffre d'affaire
-    - L'opinion sur ce secteur activité
+### 2. **Rapport sur le secteur aérospatial en 2020 avec Power BI**  
+L'objectif de ce rapport est d'analyser le secteur aérospatial en 2020 à travers :  
+- Les effectifs  
+- Le chiffre d'affaires  
+- L'opinion sur ce secteur d'activité
 
 
 ## 🛠️ Technologies et outils
