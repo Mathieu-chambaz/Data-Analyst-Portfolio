@@ -30,11 +30,15 @@ L'objectif de ce rapport est d'analyser l'activité des retraites en 2015 selon 
 - Les dépenses de l'État liées aux retraites  
 - Les cotisations retraite  
 
+Le fichier rapport.pdf au sein du dossier Insee permet d'obtenir un aperçu du rapport.
+
 ### 2. **Rapport sur le secteur aérospatial en 2020 avec Power BI**  
 L'objectif de ce rapport est d'analyser le secteur aérospatial en 2020 à travers :  
 - Les effectifs  
 - Le chiffre d'affaires  
 - L'opinion sur ce secteur d'activité
+
+Le fichier rapport.pdf au sein du dossier EtudeSecteurAerospatial permet d'obtenir un aperçu du rapport.
 
 
 ## 🛠️ Technologies et outils
