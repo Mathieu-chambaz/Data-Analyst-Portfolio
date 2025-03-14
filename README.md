@@ -30,6 +30,13 @@ L'objectif de ce rapport est d'analyser l'activité des retraites en 2015 selon 
  - Les dépenses de l'etat sur les retraites
  - Les cotisations sur les retraites
 
+### 2. **Rapport sur le secteur aérospatiale en 2020 avec PowerBI**
+L'objectif de ce rapport est d'analyser le secteur aérospatiale en 2020
+    - Les effectifs
+    - Le chiffre d'affaire
+    - L'opinion sur ce secteur activité
+
+
 ## 🛠️ Technologies et outils
 
 Voici les principaux outils et technologies que j'ai utilisés dans mes projets :
