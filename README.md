@@ -2,21 +2,17 @@
 
 Bienvenue dans mon portfolio de **Data Analyst** ! 🎉
 
-Ce répertoire contient une collection de projets de **data analysis**, de **visualisation de données**, de **modélisation** et d'**exploration de données** que j'ai réalisés tout au long de mon parcours. Vous y trouverez des projets couvrant une variété de sujets, d'outils et de technologies utilisés pour résoudre des problèmes réels grâce aux données.
+Ce répertoire contient une collection de projets de **data analysis**, de **visualisation de données**, de **modélisation** et d'**exploration de données** que j'ai réalisés. Vous y trouverez des projets couvrant une variété de sujets, d'outils et de technologies utilisés pour résoudre des problèmes réels grâce aux données.
 
 ---
 
 ## 💼 À propos de moi
 
-Je suis un Data Analyst passionné, spécialisé dans l'exploration et l'analyse des données pour en extraire des insights pertinents. Mon expertise comprend l'utilisation d'outils tels que **Python**, **SQL** et **Power BI** pour transformer des données brutes en informations utiles. 
+Je suis un ingénieur en systèmes embarqués diplômé de l’IPSA (Institut Polytechnique des Sciences Avancées), avec une spécialisation dans le domaine de la data. Je souhaite poursuivre dans le secteur de la data et ce portfolio a pour objectif de montrer les différentes compétences techniques que j'ai pu acquérir lors de mes expériences. 
 
 **Compétences principales :**
-- Analyse de données avec **Python** (pandas, numpy, matplotlib, seaborn)
-- Visualisation de données avec **Power BI**, et **matplotlib**
+- Visualisation de données avec **Power BI**
 - Modélisation et nettoyage des données
-- SQL pour l'extraction et manipulation de données dans des bases de données relationnelles
-- Machine learning (régression, classification)
-- Automatisation des tâches avec des scripts Python
 
 ---
 
