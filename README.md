@@ -36,6 +36,14 @@ L'objectif de ce rapport est d'analyser le secteur aérospatial en 2020 à trave
 
 Le fichier rapport.pdf au sein du dossier EtudeSecteurAerospatial permet d'obtenir un aperçu du rapport.
 
+### 3. **Analyse des données avec SQL**
+L'objectif de cet exercice est de pouvoir analyser un dataset grâce à des requêtes SQL, Au sein de ce dataset nous avons cherché à répondre à 4 questions :
+- La liste des clubs français
+- La liste des championnats européens
+- Les différences physiques entre les gauchers et les droitiers
+- Le nombre de match par mois pour la saison 2008/2009
+
+Pour télécharger la base de données et tester les requêtes SQL permettant de répondre à ces 4 questions, il faut se rendre au sein du dossier SQL. 
 
 ## 🛠️ Technologies et outils
 
