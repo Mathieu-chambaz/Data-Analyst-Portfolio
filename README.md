@@ -49,6 +49,7 @@ Pour télécharger la base de données et tester les requêtes SQL permettant de
 
 Voici les principaux outils et technologies que j'ai utilisés dans mes projets :
 
+- **Analyse de données** : SQL 
 - **Visualisation** : Power BI
 - **Outils de collaboration** : GitHub
 
