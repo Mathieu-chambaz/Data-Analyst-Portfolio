@@ -1,0 +1,4 @@
+SELECT team_long_name AS [Clubs français]
+  FROM Team
+ WHERE id BETWEEN 9537 AND 14876
+ ORDER BY id;

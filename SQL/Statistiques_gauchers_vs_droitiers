@@ -1,0 +1,15 @@
+SELECT pa.preferred_foot AS [Pied fort],
+       ROUND(MIN(p.weight), 2) AS [Joueur le plus leger en pounds],
+       ROUND(MAX(p.weight), 2) AS [Joueur le plus lourd en pounds],
+       ROUND(AVG(p.weight), 2) AS [Poids moyen en pounds],
+       ROUND(MIN(p.height), 2) AS [Taille du plus petit joueur en cm],
+       ROUND(MAX(p.height), 2) AS [Taille du plus grand joueur en cm],
+       ROUND(AVG(p.height), 2) AS [Taille moyenne en cm],
+       ROUND(MIN(pa.ball_control), 2) AS [Valeur la plus faible de touché de balle],
+       ROUND(MAX(pa.ball_control), 2) AS [Valeur la plus forte de touché de balle],
+       ROUND(AVG(pa.ball_control), 2) AS [Qualité moyenne de touché de balle]
+  FROM Player AS p
+       JOIN
+       Player_Attributes AS pa ON p.id = pa.id
+ GROUP BY pa.preferred_foot
+HAVING pa.preferred_foot IS NOT NULL;

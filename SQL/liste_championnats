@@ -1,0 +1,5 @@
+SELECT c.name AS [Nom du pays],
+       l.name AS [Nom du championnat associé]
+  FROM Country AS c
+       FULL JOIN
+       League AS l ON c.id = l.id;
